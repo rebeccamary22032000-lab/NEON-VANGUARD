@@ -1,0 +1,6 @@
+{
+  "name": "NEON VANGUARD // Synthwave Space Shooter",
+  "description": "A fast-paced neon synthwave top-down space shooter with procedural Web Audio synth soundtracks, multi-phase boss battles, weapon upgrades, and responsive desktop and mobile controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
